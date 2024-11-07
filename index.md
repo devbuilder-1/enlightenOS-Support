@@ -5,7 +5,7 @@ enlightenOS is a mindfulness meditation app for Apple Vision Pro that creates pe
 ## Support
 
 For support, please email us at:  
-[your-email@domain.com](mailto:your-email@domain.com)
+[dev.prithiv@yahoo.com](mailto:dev.prithiv@yahoo.com)
 
 ## Privacy Policy
 
@@ -16,20 +16,14 @@ enlightenOS does not collect any personal information. All meditation preference
 
 ### Data Storage
 - All meditation audio files are stored locally on your device
-- No data is transmitted to external servers except for meditation generation
 - No personal information is collected or stored
-
-### Third-Party Services
-We use the following third-party services:
-- OpenAI API for meditation script generation
-- VoiceMaker API for text-to-speech conversion
 
 ### Changes to This Policy
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 ## Terms and Conditions
 
-Last updated: [Current Date]
+Last updated: November, 2024
 
 ### License
 enlightenOS is licensed, not sold, to you by Prithiv Dev for use strictly in accordance with these terms.
