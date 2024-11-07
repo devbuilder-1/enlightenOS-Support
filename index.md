@@ -9,7 +9,7 @@ For support, please email us at:
 
 ## Privacy Policy
 
-Last updated: [Current Date]
+Last updated: November, 2024
 
 ### Information We Collect
 enlightenOS does not collect any personal information. All meditation preferences and settings are stored locally on your device.
